@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a925c443.css",
+    "main.js": "/portfolio/static/js/main.2a77ff0d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weccc.png": "/portfolio/static/media/weccc.2f1f2685dfeebadbaa38.png",
+    "static/media/Nisarg_CV.pdf": "/portfolio/static/media/Nisarg_CV.3401f48d2ea49040323b.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sms-categorizer.png": "/portfolio/static/media/sms-categorizer.387ea6f1983a17ff2347.png",
+    "static/media/adventure.png": "/portfolio/static/media/adventure.82925724880bbdc3c708.png",
+    "static/media/E-commerce.png": "/portfolio/static/media/E-commerce.3ac98b1815350c0af9af.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/finplan.png": "/portfolio/static/media/finplan.321a28e6794525eaf6f0.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a925c443.css.map": "/portfolio/static/css/main.a925c443.css.map",
+    "main.2a77ff0d.js.map": "/portfolio/static/js/main.2a77ff0d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a925c443.css",
+    "static/js/main.2a77ff0d.js"
+  ]
+}
