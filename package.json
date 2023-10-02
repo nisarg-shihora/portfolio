@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://nisarg-shihora.github.io/portfolio",
+  "homepage": "https://nisarg-shihora.github.io/portfolio/public/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
